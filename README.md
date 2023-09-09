@@ -13,4 +13,4 @@
 ## Dúvidas
 
 - Se tiver alguma dúvida, sugestão ou comentário, envie um email para guilhermevanzin@gmail.com
-- Dúvidas relacionadas a instalação ou testes acesse a documentação da linguagem de programação dart clicando [aqui]('https://dart.dev/tutorials/server/get-started')
+- Dúvidas relacionadas a instalação ou testes acesse a documentação da linguagem de programação dart clicando [aqui](https://dart.dev/tutorials/server/get-started)
